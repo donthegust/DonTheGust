@@ -1,18 +1,21 @@
-### Olá Mundo! 👋
+### Hello World! 👋
 
-Eu sou Gustavo, entusiasta de tecnologia e estudante de programação.
+I’m Gustavo, tech enthusiast and programming student.
 
 
-- 🔭 Atualmente trabalho com Web Analytics (JavaScript e SQL).
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas no IFSP.
+- 🔭 I’m currently working with Web Analytics (JavaScript and SQL).
+- 🌱 I’m currently study Software Analysis and Development.
 <br>
 
-#### ⚙️ Algumas tecnologias que conheço:
+#### ⚙️ Some technologies I know:
 <div style="display: inline_block">
   <img align="center" alt="Gust-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Gust-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gust-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Gust-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gust-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gust-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gust-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gust-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gust-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Gust-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gust-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,11 +35,11 @@ Eu sou Gustavo, entusiasta de tecnologia e estudante de programação.
 <!--
 **DonTheGust/DonTheGust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hello World! 👋
+### Olá Mundo! 👋
 
-I’m Gustavo, tech enthusiast and programming student.
+Eu sou Gustavo, entusiasta de tecnologia e estudante de programação.
 
 
-- 🔭 I’m currently working with Web Analytics (JavaScript and SQL).
-- 🌱 I’m currently study Software Analysis and Development.
+- 🔭 Atualmente trabalho com Web Analytics (JavaScript e SQL).
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas no IFSP.
 -->
