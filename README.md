@@ -28,8 +28,8 @@ I’m Gustavo, tech enthusiast and programming student.
 
 <div align="center"><br>
 <a href="https://github.com/DonTheGust">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DonTheGust&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonTheGust&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donthegust&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donthegust&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 <!--
